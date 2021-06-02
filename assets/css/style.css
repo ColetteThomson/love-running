@@ -231,7 +231,7 @@ footer {
 }
 
 /* media queries */
-/* for larger to medium screens size 1200pxwide and down */
+/* for larger to medium screens size 1200pxwide and down (tablets)*/
 
 @media screen and (max-width: 1200px) {
     #club-ethos {
@@ -245,7 +245,7 @@ footer {
         margin: 0;
     }
 
-    #left-about, right-about {
+    #left-about, #right-about {
         width: 100%;
         float: left;
         padding: 0;
