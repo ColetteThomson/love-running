@@ -303,10 +303,12 @@ footer {
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
+    }
 
     #photos {
         column-count: 3;
     }
+}
 
     /* for small screen sizes 800px and down */
     @media screen and (max-width: 800px) {
